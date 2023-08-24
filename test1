@@ -1,0 +1,7 @@
+echo "# hw0" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/snehahood11/hw0.git
+git push -u origin main
